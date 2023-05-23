@@ -1,1 +1,2 @@
 edition 1.0
+Edition 2.0
